@@ -20,7 +20,7 @@ app.py: Streamlit application script that serves the movie recommender system as
 ### Clone the Repository
 To get a copy of the project, clone the repository using:
 
-git clone https://github.com/saadkhannust/movie-recommender-system.git
+git clone https://github.com/saadkhannust/movie-recommender-system-2-Sentence-Transformers.git
 
 ### Running the Code
 
