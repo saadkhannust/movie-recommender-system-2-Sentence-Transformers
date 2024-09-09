@@ -1,5 +1,5 @@
 
-###### Movie Recommender System
+# Movie Recommender System
 
 ### Description
 
@@ -15,7 +15,7 @@ tmdb_5000_movies.csv: Dataset containing detailed movie metadata (e.g., movie na
 
 app.py: Streamlit application script that serves the movie recommender system as a web app.
 
-##### Getting Started
+## Getting Started
 
 ### Clone the Repository
 To get a copy of the project, clone the repository using:
